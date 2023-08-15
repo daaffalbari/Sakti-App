@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dukun Sakti</string>
+    <string name="sub_splash">Tanya apapun pasti akan terjawab</string>
+    <string name="main_text">Dukun Sakti adalah aplikasi yang dapat membantu anda dalam mengatasi masalah sehari-hari anda.</string>
+    <string name="ai_art_generator">AI Art Generator</string>
+    <string name="chat_with_ghost">Chat With Ghost</string>
+</resources>
